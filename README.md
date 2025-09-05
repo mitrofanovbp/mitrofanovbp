@@ -2,7 +2,7 @@
 
 🎯 **Junior Backend Developer (Java/Python)**
 
-🔨 Основной стек: Java 17+, Spring Boot 3, Hibernate/JPA, PostgreSQL, Kafka/Redis, Docker/Kubernetes, REST API, JUnit/Mockito/Testcontainers  
+🔨 Основной стек: Java, Python, Spring Boot 3, Hibernate/JPA, PostgreSQL, Kafka/Redis, Docker/Kubernetes, REST API, JUnit/Mockito/Testcontainers  
 👥 Опыт: тимлид backend-команды (oil-spill-backend) — архитектура, постановка задач, код-ревью  
 🚀 Интересы: backend-разработка, микросервисная архитектура, DevOps-практики, CI/CD
 
