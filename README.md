@@ -37,6 +37,10 @@ Interested in distributed systems, microservice architecture, and cloud technolo
   Telegram bot backend for scheduling automotive test drives.  
   *Stack:* Java 17, Spring Boot, REST API, PostgreSQL, Docker  
 
+- **[Squares Game Engine](https://github.com/mitrofanovbp/squares-game-engine)** — 
+  Modular Java 17 implementation of a turn-based board game. Includes console version, REST API, and web client with Swagger UI.  
+  *Stack:* Java 17, Spring Boot, REST API, Maven
+
 - **[Oil-Spill Backend](https://github.com/mitrofanovbp/oil-spill-backend)** — 
   Environmental data monitoring backend with async processing and ML integration.  
   *Stack:* Python (FastAPI, Celery), Redis, Docker 
