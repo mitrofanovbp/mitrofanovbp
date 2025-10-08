@@ -13,10 +13,10 @@ Interested in distributed systems, microservice architecture, and cloud technolo
 ## Tech Stack  
 **Core:** Java 17+, Spring Boot, Spring Data JPA, Hibernate  
 **Databases:** PostgreSQL, MySQL, SQLite, Flyway  
-**Messaging:** RabbitMQ, Kafka (basic)  
+**Messaging:** RabbitMQ, Kafka  
 **Caching:** Redis  
 **Testing:** JUnit 5, Mockito, Testcontainers, MockMvc  
-**DevOps:** Docker, Docker Compose, GitHub Actions, Linux, (basic Kubernetes)  
+**DevOps:** Docker, Docker Compose, GitHub Actions, Linux, Kubernetes  
 **Monitoring:** Prometheus, Grafana, ELK stack  
 **Version Control:** Git, GitHub  
 **Additional:** Python (FastAPI, Celery), REST API design, JSON, Swagger/OpenAPI  
