@@ -36,7 +36,7 @@ Focused on building scalable APIs, clean architectures, and production-ready sys
   Telegram bot backend for automotive test-drive scheduling.  
   *Stack:* Java 17, Spring Boot, REST API, PostgreSQL, Docker  
 
-- **[Workmate Recipes App](https://github.com/mitrofanovbp/workmate-recipes-tz)** –  
+- **[Workmate Recipes App](https://github.com/mitrofanovbp/workmate-recipes-app)** –  
   Android app built with Kotlin and Jetpack Compose for browsing and managing recipes.  
   *Stack:* Kotlin, Jetpack Compose, MVVM, Retrofit, Coroutines, Material 3  
 
