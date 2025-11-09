@@ -1,6 +1,6 @@
-# **Full-Stack Software Engineer | Java Backend & AI-Integrated Web/SaaS Development **  
+# Full-Stack Software Engineer | Java Backend & AI-Integrated Web/SaaS Development
 
-## Building full-stack and SaaS products powered by Java, Spring Boot, and modern AI integrations.
+### Building full-stack and SaaS products powered by Java, Spring Boot, and modern AI integrations.
 ---
 
 ## Tech Stack  
