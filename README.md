@@ -1,24 +1,10 @@
-# Bogdan Mitrofanov  
-**Software Engineer (Java / Kotlin / Spring Boot / Android)**  
+# **Full-Stack Software Engineer | Java Backend & AI-Integrated Web/SaaS Development **  
 
----
-
-## About  
-Software Engineer specializing in backend and Android development using Java, Kotlin, and Spring Boot.  
-Focused on building scalable APIs, clean architectures, and production-ready systems.  
-
+## Building full-stack and SaaS products powered by Java, Spring Boot, and modern AI integrations.
 ---
 
 ## Tech Stack  
-**Languages:** Java 17+, Kotlin  
-**Frameworks:** Spring Boot, Spring Data JPA, Hibernate  
-**Databases:** PostgreSQL, MySQL, SQLite, Flyway, Liquibase  
-**Messaging & Caching:** RabbitMQ, Kafka, Redis  
-**Testing:** JUnit 5, Mockito, Testcontainers, MockMvc  
-**DevOps:** Docker, Docker Compose, GitHub Actions, Linux, Kubernetes  
-**Monitoring:** Prometheus, Grafana, ELK stack  
-**Mobile:** Kotlin, Jetpack Compose, MVVM, Retrofit, Coroutines, Material 3  
-**Other:** Python, REST API design, Swagger/OpenAPI  
+Java (17–21) · Spring Boot · REST API · PostgreSQL · Redis · Kafka · Docker · GitHub Actions · Linux · JUnit5 · Mockito · Testcontainers · Basic React + TypeScript · AI API integrations (OpenAI, Gemini)
 
 ---
 
