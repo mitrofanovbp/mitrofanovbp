@@ -1,10 +1,6 @@
-# Full-Stack Software Engineer | Java Backend & AI-Integrated Web/SaaS Development
+# Fullstack Software Engineer | Java Backend & AI-Integrated Web/SaaS Development
 
 ### Building full-stack and SaaS products powered by Java, Spring Boot, and modern AI integrations.
----
-
-## Tech Stack  
-Java (17–21) · Spring Boot · REST API · PostgreSQL · Redis · Kafka · Docker · GitHub Actions · Linux · JUnit5 · Mockito · Testcontainers · Basic React + TypeScript · AI API integrations (OpenAI, Gemini)
 
 ---
 
@@ -22,13 +18,6 @@ Java (17–21) · Spring Boot · REST API · PostgreSQL · Redis · Kafka · Doc
 - **[Test-Drive Booking Bot](https://github.com/mitrofanovbp/test-drive-booking-bot)** –  
   Telegram bot backend for automotive test-drive scheduling.  
   *Stack:* Java 17, Spring Boot, REST API, PostgreSQL, Docker  
-
----
-
-### Android & Mobile
-- **[Workmate Recipes App](https://github.com/mitrofanovbp/workmate-recipes-app)** –  
-  Technical assignment app built with Kotlin and Jetpack Compose.  
-  *Stack:* Kotlin, Jetpack Compose, MVVM, Retrofit, Coroutines, Material 3  
 
 ---
 
